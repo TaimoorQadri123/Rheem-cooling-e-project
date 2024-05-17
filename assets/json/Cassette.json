@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Window AC 1",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "image": "assets/imgs/top selling.jpg",
+        "link": "#"
+    },
+    {
+        "name": "Window AC 2",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "image": "assets/imgs/top selling.jpg",
+        "link": "#"
+    },
+    {
+        "name": "Window AC 3",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "image": "assets/imgs/top selling.jpg",
+        "link": "#"
+    },
+    {
+        "name": "Window AC 4",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "image": "assets/imgs/top selling.jpg",
+        "link": "#"
+    }
+]
